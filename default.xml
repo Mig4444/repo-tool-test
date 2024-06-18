@@ -4,7 +4,5 @@
 
   <default revision="master" remote="origin" sync-j="4"/>
 
-  <project path="MyApp1" name="Microsoft/vscode"/>
-  <project path="MyApp2" name="torvalds/linux"/>
+  <project path="MyApp" name="rtyley/small-test-repo"/>
 </manifest>
-
